@@ -1,0 +1,5 @@
+requests~=2.25.1
+demjson~=2.2.4
+Pillow~=8.1.0
+lxml~=4.6.2
+Flask~=1.1.2
